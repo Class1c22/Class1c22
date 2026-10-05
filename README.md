@@ -1,4 +1,4 @@
-# Hi, I'm Volodymyr 👋
+# Hi, I'm Volodymyr
 
 **Game developer** from Ukraine, Computer Science student at NaUKMA (Kyiv-Mohyla Academy).
 I build and ship complete games in **UEFN / Verse** and **Unity (C#)**.
